@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## 🔭 Working
+## 🔭 About me
 
 I currently work as an Software engineer at https://teorico.com.br and usually do something with programming such as development and code review.
 
@@ -13,4 +11,3 @@ Outside work, I like:
  - Docker
  - Kinect v2
  - RFC implementations
-
