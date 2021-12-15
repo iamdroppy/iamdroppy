@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**iamdroppy/iamdroppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Working
 
-Here are some ideas to get you started:
+I currently work as an Software engineer at https://teorico.com.br and usually do something with programming such as development and code review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside work, I like:
+
+ - Reverse engineering
+ - Network tools and automation
+ - Web application security
+ - Machine-learning
+ - Docker
+ - Kinect v2
+ - RFC implementations
+
