@@ -1,8 +1,7 @@
 ## 🔭 About me
 
-I currently work as an Software engineer at https://teorico.com.br and usually do something with programming such as development and code review.
-
-Outside work, I like:
+I currently work as a Lead Software engineer at Drivin Sistemas and I do development and code review
+Outside work, I enjoy:
 
  - Reverse engineering
  - Network tools and automation
@@ -11,3 +10,4 @@ Outside work, I like:
  - Docker
  - Kinect v2
  - RFC implementations
+ - Game development
