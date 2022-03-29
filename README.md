@@ -1,8 +1,8 @@
 ## 🔭 About me
 
-I currently work as a Lead Software engineer at Drivin Sistemas and I do development and code review
-Outside work, I enjoy:
+Things I enjoy:
 
+ - General development
  - Reverse engineering
  - Network tools and automation
  - Web application security
