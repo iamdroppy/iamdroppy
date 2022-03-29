@@ -11,3 +11,5 @@ Outside work, I enjoy:
  - Kinect v2
  - RFC implementations
  - Game development
+
+Visit me @ https://lucca.ferri.sh
