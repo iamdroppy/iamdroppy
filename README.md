@@ -12,4 +12,4 @@ Things I enjoy:
  - RFC implementations
  - Game development
 
-Visit me @ https://lucca.ferri.sh
+Visit me @ https://luccaferri.com
