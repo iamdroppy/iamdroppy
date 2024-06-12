@@ -3,7 +3,7 @@ Enter your name in your guest list here: ____________________
 ## Honourable Guest List
 Please, behold those who found themselves in the deep corners of the web, the honourable guest list 
 
-‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ _(1 page, showing 1 result)_
+‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ _(1 page, showing 3 results)_
 | Who | When |
 |-----|------|
 | `You` | Now  |
@@ -14,4 +14,4 @@ Please, behold those who found themselves in the deep corners of the web, the ho
 
 ## My git stats:
 
-![Image](https://imgs.xkcd.com/comics/hazard_symbol_2x.png)
+![Image](https://i.imgur.com/PZyEdkq.png)
