@@ -9,7 +9,7 @@ Please, behold those who found themselves in the deep corners of the web, the ho
 | `You` | Now  |
 | `Crawlers`  | 2 secs. ago |
 | `Myself` | Thu Jan 01 1970 00:00:00 GMT+0000 |
-||‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ _(1 page, showing 1 result)_ |
+||‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ _(1 page, showing 3 results)_ |
 > [1]
 
 ## My git stats:
